@@ -1,5 +1,13 @@
 # American Roulette (Java)
 
+Author: Joseph Pokuta
+
+Course: Introduction to Programming 1 (CS1121) | Michigan Technological University
+
+Date: 03/08/24 (Updated 11/7/26)
+
+Originally part of a program written for a freshman level introductory Java course. Originally contained basic betting on red, black, and green, enhanced with Claude (2026) for more features.
+
 A command-line American roulette game. You start with a stack of chips, place as many bets as you like, spin, and the ball rolls around a real 38-pocket wheel (0, 00, 1–36 in the actual wheel order) before it settles.
 
 This started as one method in a freshman intro-to-programming assignment. I rebuilt it as a standalone program with real roulette rules, input validation, and tests.
